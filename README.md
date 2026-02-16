@@ -2,7 +2,7 @@
 
 Name:Uday
 Roll No:2024BCS-031
-Course:SE
+Course:Soft Engg.
 Semester:4
 
 Updated by collaborator
